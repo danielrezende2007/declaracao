@@ -11,3 +11,5 @@
 
  ![alt text](image.png)
  
+## LAÇO FOR 
+O laço FOR é uma estrutura de repetição utilizada em linguagens de programação, Ele permite que um bloco de código seja executado repetidamente por um número específico de vezes, geralmente baseado em uma condição lógica. Isso é útil para tarefas que precisam ser repetidas várias vezes, como processamento de dados ou iteração sobre uma lista de elementos 
